@@ -1,6 +1,6 @@
 
 ### Olá! Eu sou o João Vitor Guimarães 👋🏻
-Apaixonado por Tecnologia, Inovacação e Educação.
+Apaixonado por Tecnologia, Inovação e Educação.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/computacaocomojota?igshid=YTQwZjQ0NmI0OA==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-guimar%C3%A3es-dos-santos-956b911b6/)
