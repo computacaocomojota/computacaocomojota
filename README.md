@@ -12,7 +12,7 @@ Apaixonado por Tecnologia, Inovação e Educação.
 - Desenvolvimento Mobile (IOS)
 - Desenvolvimento de Software
 - Desenvolvimento Web
-- 
+  
 ## Linguagens Mais Utilizadas Recentemente
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=computacaocomojota&hide_progress=true)
