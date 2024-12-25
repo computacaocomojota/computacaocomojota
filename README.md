@@ -10,8 +10,8 @@ Apaixonado por Tecnologia, Inovação e Educação.
 
 ## Áreas de TI que acho interessantes: 
 - Desenvolvimento Mobile (IOS)
-- Desenvolvimento de Software
 - Desenvolvimento Web
+- Análise de Dados
   
 ## Linguagens Mais Utilizadas Recentemente
 
