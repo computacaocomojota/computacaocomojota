@@ -2,15 +2,26 @@
 ### Olá! Eu sou o João Vitor Guimarães 👋🏻
 Apaixonado por Tecnologia, Inovação e Educação.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/computacaocomojota?igshid=YTQwZjQ0NmI0OA==)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvguima04/?locale=pt_BR)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+<div style="display: flex; gap: 10px; align-items: center;">
+   <a href="https://www.instagram.com/dev_jota?igsh=ZzY3Z3Vxamo3YXZu&utm_source=qr" target="_blank">
+      <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="50" height="50">
+   </a>
+   <a href="https://www.linkedin.com/in/jvguima04/" target="_blank">
+      <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="50" height="50">
+   </a>
+   <a href="mailto:seuemail@gmail.com">
+      <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="50" height="50">
+   </a>
+</div>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=computacaocomojota&show_icons=true&theme=dark)
   
 ## Linguagens Mais Utilizadas Recentemente
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=computacaocomojota&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=computacaocomojota&hide_progress=true&theme=dark)
+
 
 ## Linguagens em Aprendizagem
 
