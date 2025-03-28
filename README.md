@@ -64,7 +64,7 @@ Estou sempre aberto a **novos desafios** e **oportunidades** para **aprender** e
 
 ### Tecnologias em Estudo / Experiência Adicional
 - **Java**: Experiência adquirida na disciplina de Linguagem de Programação III, com foco em conceitos de orientação a objetos e desenvolvimento de soluções.
-- **Ruby**: Conhecimento adquirido durante o estágio, com foco em desenvolvimento back-end e aplicação de conceitos de Ruby.
+- **Ruby**: Conhecimento adquirido durante o estágio na Techmobil, com foco em desenvolvimento back-end e aplicação de conceitos de Ruby.
 - **Ruby on Rails**: Introdução ao framework Ruby on Rails, utilizado para o desenvolvimento de aplicações web com foco em rapidez e simplicidade.
 
 <div style="display: flex; gap: 10px; align-items: center;">
